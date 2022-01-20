@@ -4,3 +4,5 @@ these slides refer to commit
 [6c8ed60ec](https://github.com/apache/tvm/tree/6c8ed60ec), the head of
 the main branch of [TVM](https://github.com/apache/tvm/) on
 2021-12-03.
+
+A recording of the talk is available [here](https://www.youtube.com/watch?v=T7Q-paex4a4)
